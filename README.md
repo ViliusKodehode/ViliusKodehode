@@ -1,16 +1,26 @@
-## Hi there 👋
+## 💫 About Me:
+Hi there! 👋
 
-<!--
-**ViliusKodehode/ViliusKodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ I’m currently working on
+- A full-stack developer course
+- A game development project
 
-Here are some ideas to get you started:
+## 🤝 I’m looking to collaborate on
+- Web development and game development projects
+- JavaScript, React, and Python-based projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❓ I’m looking for help with
+- Improving my React skills
+- Understanding backend development concepts
+
+## 📚 I’m currently learning
+- React and full-stack development
+- Advanced JavaScript concepts
+
+## 💬 Ask me about
+- Web development
+- Game design
+- Creative coding projects
+
+## 🎉 Fun fact
+I enjoy making fun videos, working on game ideas, and creating interactive experiences!
